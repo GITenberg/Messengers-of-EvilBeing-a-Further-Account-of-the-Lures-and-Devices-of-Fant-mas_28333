@@ -1,0 +1,46 @@
+_repo: Messengers-of-EvilBeing-a-Further-Account-of-the-Lures-and-Devices-of-Fant-mas_28333
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Allain, Marcel
+    birthdate: 1885
+    deathdate: 1969
+    gutenberg_agent_id: '32911'
+    url: http://www.gutenberg.org/2009/agents/32911
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Allain
+  - agent_name: Souvestre, Pierre
+    birthdate: 1874
+    deathdate: 1914
+    gutenberg_agent_id: '32910'
+    url: http://www.gutenberg.org/2009/agents/32910
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Souvestre
+description: 'Fantomas strikes again in this third installment in the intoxicating
+  crime series. On Rue Norvins, the police find a famous heiress poisoned to death
+  in the studio of a ceramics painter. The artist, in a state of partial paralysis,
+  remembers nothing. These bare and baffling facts will lead newspaperman Jerome Fandor
+  from the magnificent ballrooms of the aristocracy to the scrubby pubs of the Parisian
+  underworld as his search for the truth uncovers ruined fortunes, desperate suicides,
+  mistaken identities, and even romance. Never far from such evil and outrageous doings
+  is a villain so mysterious, so extraordinary, so clever and cruel that he can only
+  have one name: Fantomas! This ebook has been professionally proofread to ensure
+  accuracy and readability on all devices.'
+gutenberg_issued: '2009-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28333'
+  lccn: '17015546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fantômas (Fictitious character) -- Fiction'
+- !lcc 'PQ'
+title: 'Messengers of Evil
+
+  Being a Further Account of the Lures and Devices of Fantômas'
+url: http://www.gutenberg.org/ebooks/28333
